@@ -31,4 +31,4 @@ Each folder will contain:
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/SYDS-Sem-4-Practicals.git
+git clone https://github.com/stephenbaraik/SYDS-Sem-4-Practicals.git
