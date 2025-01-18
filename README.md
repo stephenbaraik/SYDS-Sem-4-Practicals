@@ -1,6 +1,6 @@
 # 🌟 SYDS-Sem-4-Practicals 🌟
 
-Welcome to the official repository for **SYDS Semester 4 Practical Submissions**! Here you will find all the work related to your practical assignments for this semester. This repository will serve as the central hub for storing, reviewing, and submitting practicals.
+Welcome to My official repository for **SYDS Semester 4 Practical Submissions**! Here you will find all the work related to my practical assignments for this semester. This repository will serve as the central hub for storing, reviewing, and submitting practicals.
 
 ---
 
